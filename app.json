@@ -1,5 +1,5 @@
 {
-    "name": "Hislordship",
+    "name": "HislordshipTG",
     "description": "When you send a file on a telegram channel, this bot will save it on her database, So that you can search for it easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JstathamTG/Hislordship",
-    "repository": "https://github.com/JstathamTG/Hislordship",
+    "website": "https://github.com/JoeykingTG/HislordshipTG",
+    "repository": "https://github.com/JoeykingTG/HislordshipTG",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
