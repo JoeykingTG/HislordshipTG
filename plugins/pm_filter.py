@@ -409,7 +409,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_series')
             ],[
-            InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordshipmovies'),
+            InlineKeyboardButton('Movie Bot🎥', url='https://t.me/Lordshipmovies'),
             InlineKeyboardButton('Adult Bot🔞', url='https://t.me/Adultship')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
