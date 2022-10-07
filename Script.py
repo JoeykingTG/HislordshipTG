@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b>𝙷𝙴𝙻𝙾 {} 🥰🙋‍♀</b>
     
-<b>Hey Sweetheart, My Name Is <a href=https://t.me/{}>{}</a>. I'm a Powerful Movie Auto-Filter Bot.</b>
+<b>Hey Sweetheart, My Name Is <a href=https://t.me/{}>{}</a>. I'm a Powerful Series Auto-Filter Bot.</b>
 
-<b>You Can Use Me As An Auto-filter in Your Movie Group.... Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Tons of Movies There..😍</b>"""
+<b>You Can Use Me As An Auto-filter in Your Series Group.... Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Tons of Series There..😍</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
     
 <b>○ PLEASE DONT SPAM ME...🤒</b>
@@ -15,7 +15,7 @@ class script(object):
 <b>✯ CREDIT: To Everyone that created this repo</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>DEVELOPED BY:</b>
-- <a href=https://t.me/+R59lJd9RGV1iNzZk>MOVIE COLLECTION</a></b>"""
+- <a href=https://t.me/+R59lJd9RGV1iNzZk>HISLORDSHIP MOVIES</a></b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
