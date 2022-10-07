@@ -407,10 +407,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_Movies')
+            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_series')
             ],[
-            InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordship_series'),
-            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/AdultEmpire_xxx')
+            InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordshipmovies'),
+            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/Adultship')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')                                       
